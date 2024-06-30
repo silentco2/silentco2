@@ -59,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=silentco2&show_icons=true&locale=en&layout=compact" alt="silentco2" /></p>
+<div class="block sm:flex sm:justify-center sm:items-start"><div class="text-center mx-4 mb-4"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=silentco2&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="silentco2"></div></div>
