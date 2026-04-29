@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osama Khalifa</h1>
 <h3 align="center">A Frontend Web Developer with a lot of curiosity</h3>
 
-- 🔭 I’m currently working on [Next Meals](https://github.com/silentco2/NextMeals)
+- 🔭 I’m currently working on [Kacademia](https://kacademia.vercel.app/)
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **osamakhalifa333@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1catKGv37P_xZdFnW-Yb4OLSmt6DdvRVR/view?usp=sharing](https://drive.google.com/file/d/1catKGv37P_xZdFnW-Yb4OLSmt6DdvRVR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1l0uV_Z-3hQxpMtQAoHDbm7yLFrJM0ze8/view?usp=drive_link](https://drive.google.com/file/d/1l0uV_Z-3hQxpMtQAoHDbm7yLFrJM0ze8/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
